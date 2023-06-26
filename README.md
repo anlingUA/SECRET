@@ -22,5 +22,5 @@ library(SECRET)
 ```
 
 - For an example how to use [SECRET](https://yylu5.github.io/SECRET/Intro_to_SECRET.html)
-- Example datasets are in vignettes folder
+- Example datasets are in **vignettes** folder
 
