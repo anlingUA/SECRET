@@ -14,12 +14,12 @@
 # install devtools if necessary
 install.packages('devtools')
 
-# install the SPADE package
-devtools::install_github('YyLu5/SECRET')
+# install the SECRED package
+devtools::install_github('anlingUA/SECRET')
 
 # load
 library(SECRET)
 ```
 
-- For an example how to use [SECRET](https://yylu5.github.io/SECRET/vignettes/Intro_to_SECRET.html)
+- For an example how to use [SECRET](https://anlingUA.github.io/SECRET/vignettes/Intro_to_SECRET.html)
 - Example datasets are in **vignettes** folder
